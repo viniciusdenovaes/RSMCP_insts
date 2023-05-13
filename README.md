@@ -17,7 +17,7 @@ a vertex in position 0 with coordinates $(0,0)$ and a vertex in position
 $2n-1$ also with coordinates $(0,0)$.
 %(corresponding to Class 3 of \cite{HernandezPerez2009987}).
 We only take into account the vertex distribution of these instances.
-For each $i in {0, ..., n-1}$, we consider vertex $i$ as a pickup point of an agent and $i+n$ as its corresponding delivery point.
+For each $i \in \{0, ..., n-1\}$, we consider vertex $i$ as a pickup point of an agent and $i+n$ as its corresponding delivery point.
 There are 210 instances, each with 6, 11 or 16 pickup-and-delivery pairs.
 This set of instances is the type 1.
 
